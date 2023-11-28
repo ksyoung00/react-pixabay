@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-pixabay/static/css/main.3b2767f2.css",
+    "main.js": "/react-pixabay/static/js/main.f920fe76.js",
+    "index.html": "/react-pixabay/index.html",
+    "main.3b2767f2.css.map": "/react-pixabay/static/css/main.3b2767f2.css.map",
+    "main.f920fe76.js.map": "/react-pixabay/static/js/main.f920fe76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b2767f2.css",
+    "static/js/main.f920fe76.js"
+  ]
+}
