@@ -1,0 +1,23 @@
+.item {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 20px 0;
+}
+.item ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  margin: 10px;
+  width: 200px;
+  background-color: beige;
+  border: 2px solid #515932;
+}
+.item ul li {
+  border-bottom: 1px dotted #515932;
+  padding: 5px 10px;
+}
+.item img {
+  width: 100%;
+  vertical-align: top;
+}
